@@ -13,7 +13,7 @@ A Python client was developed to interact with the deployed SageMaker endpoint. 
 The client and endpoint were tested using one malware PE file and one benign PE file. The testing process was demonstrated in the project's demo video.
 
 # Deliverables:
-Presentation and Demo Video: A short video presentation (<15 minutes) was created to describe the technical details of the project and demonstrate the implementation of the tasks. The video included a walkthrough of the model deployment process, client development, testing with sample files, and performance benchmarking. (Watch Demo Video)
+Presentation and Demo Video: A short video presentation was created to describe the technical details of the project and demonstrate the implementation of the tasks. The video included a walkthrough of the model deployment process, client development, testing with sample files, and performance benchmarking. ([Watch Demo Video](https://youtu.be/jwl71Xm6q1E?feature=shared))
 
 # Report: 
 A comprehensive report covering the project overview, technical approaches for each task, performance analysis metrics (e.g., accuracy, precision, recall, F-1 score, confusion matrix), and references.
